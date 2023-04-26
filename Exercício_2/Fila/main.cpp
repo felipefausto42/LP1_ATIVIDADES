@@ -64,4 +64,6 @@ int main(){
         }
         cin >> option;
     }  
+
+    return 0;
 }
