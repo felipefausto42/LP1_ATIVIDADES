@@ -44,12 +44,12 @@ int main() {
         if(stack.empty() == true){
             cout << "A STACK está vazia"; cout << endl;
         } else{
-            cout << "A Stack não está vazia"; cout << endl;
+            cout << "A STACK não está vazia"; cout << endl;
         }
     }
 
     else if(option == 5){
-        cout << "Quantidade de elemntos da STACK: " << stack.size(); cout << endl;
+        cout << "Quantidade de elementos da STACK: " << stack.size(); cout << endl;
     }
     cin >> option;
   }  
